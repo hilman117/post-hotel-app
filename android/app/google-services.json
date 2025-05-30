@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487915190018",
+    "project_id": "post-app-d6f0c",
+    "storage_bucket": "post-app-d6f0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487915190018:android:712631ab7e1b03becdb41b",
+        "android_client_info": {
+          "package_name": "com.post.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487915190018-l5thci4g1t8l8pthuer5rgqf67o8r09g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxghQ6hHwLIUBpyDkIOLZ_68AIyPjL3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487915190018-l5thci4g1t8l8pthuer5rgqf67o8r09g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
